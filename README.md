@@ -1,4 +1,4 @@
-# HM Shihabuddin Jashory (এইচ এম শিহাবুদ্দিন যশোরী)
+# HM Shihabuddin Jashory
 
 **Founder & Chief Executive Officer (CEO) at [Vision Flow Group](https://visionflowgroup.com)**  
 *AI Red Teamer · Offensive & Defensive Security Analyst · AI Systems & Full-Stack Architect · Visual, Graphic & Motion Director*
