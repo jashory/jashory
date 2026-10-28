@@ -15,6 +15,14 @@ I architect secure full-stack software systems, conduct adversarial AI & applica
 
 ---
 
+### 🚀 Open-Source AI Agent & Security Tools
+
+- 🛡️ **[agy-claude-crash-guard-kit](https://github.com/jashory/agy-claude-crash-guard-kit)** — PreToolUse Multimodal Crash Firewall (blocks password-encrypted PDFs, 0-byte media & >450KB images from causing permanent HTTP 400 / 30MB trajectory overflow), Loop-Safe Post-Edit Verification Gate, Dark-Mode Crash Doctor GUI & Desktop-to-IDE Session Sync for **Claude Code** & **Google Antigravity**.
+- ⚡ **[infinite-llm-fallback-router](https://github.com/jashory/infinite-llm-fallback-router)** — Zero-dependency multi-provider LLM auto-fallback proxy (SSE Streaming + built-in Anthropic /v1/messages ↔ OpenAI /v1/chat/completions bridge + custom 9Router patches).
+- 🔒 **[mcp-agent-security-auditor](https://github.com/jashory/mcp-agent-security-auditor)** — Fast CWE-mapped static pre-audit security scanner & Agent Skill for MCP servers, AI agent hooks (${ENV_VAR} secret persistence leaks), and Firebase/Firestore security rules.
+
+---
+
 ### 🏛️ Organizations & Ventures
 
 - 🌐 **Vision Flow Group**: [visionflowgroup.com](https://visionflowgroup.com) ([@visionflow-bd](https://github.com/visionflow-bd))
