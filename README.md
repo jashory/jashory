@@ -5,6 +5,22 @@
 
 ---
 
+### 🏆 Official NASA JPL F´ (`GHSA-pq8v-c63j-wv29` / `PR #6299`) & Google Cloud VRP (`P1 #579166776`) Security Researcher — HM Shihabuddin Jashory
+
+- 🛰️ **NASA Jet Propulsion Laboratory (JPL) F´ Flight Software (Confirmed & Merged)**:
+  - **Advisory**: [`GHSA-pq8v-c63j-wv29`](https://github.com/nasa/fprime/security/advisories/GHSA-pq8v-c63j-wv29) — *Arbitrary File Write via Unvalidated Path Traversal in F´ CFDP Ground & Spacecraft File Transfer Deframer* (`credit_accepted: true` for `@jashory`).
+  - **Official NASA JPL Fix**: [**Merged `nasa/fprime` Pull Request `#6299`**](https://github.com/nasa/fprime/pull/6299) (`commit a4092836ad628da32211ff71299fa8e619e7be6b`) — validated by NASA JPL Cybersecurity Engineering Lead **Steven Doran (`@bitWarrior`)** and merged by **`@thomas-bc`** into `nasa/fprime:devel`.
+  - **Additional NASA & Space Systems Security Advisories (`@jashory`)**: `nasa/fprime-gds` ([`GHSA-rm58-f49w-5c3g`](https://github.com/nasa/fprime-gds/security/advisories/GHSA-rm58-f49w-5c3g)), `nasa/CryptoLib` ([`GHSA-pfm4-7hrj-24jp`](https://github.com/nasa/CryptoLib/security/advisories/GHSA-pfm4-7hrj-24jp)), `nasa/spacewasm` ([`GHSA-3p2g-79q9-39cr`](https://github.com/nasa/spacewasm/security/advisories/GHSA-3p2g-79q9-39cr)), and `nasa/openmct` ([`GHSA-mhv6-5g6q-c4jg`](https://github.com/nasa/openmct/security/advisories/GHSA-mhv6-5g6q-c4jg)).
+- ☁️ **Google Cloud VRP & Open-Source Software VRP (10 Active Issue Tracker Tickets — Priority `P1` & `P2`)**:
+  - **Priority `P1 / S1` Escalated**: [**Google Issue `#579166776`**](https://issuetracker.google.com/issues/579166776) (`cdapio/cdap` / Google Cloud Data Fusion — [`GHSA-rj64-qpqm-28j9`](https://github.com/cdapio/cdap/security/advisories/GHSA-rj64-qpqm-28j9)).
+  - **Priority `P2` Escalated**: [**Google Issue `#580130935`**](https://issuetracker.google.com/issues/580130935) (`google/adk-go` — [`GHSA-fr5f-8j3j-qx2r`](https://github.com/google/adk-go/security/advisories/GHSA-fr5f-8j3j-qx2r)), [**`#580032520`**](https://issuetracker.google.com/issues/580032520) (`google/adk-js`, `adk-kotlin`, `adk-java`), [**`#577552191`**](https://issuetracker.google.com/issues/577552191) (`google-gemini/gemini-cli`), [**`#579165515`**](https://issuetracker.google.com/issues/579165515) (`cdapio/cdap-ui`), [**`#579171447`**](https://issuetracker.google.com/issues/579171447) (`gemini-cli` A2A), and [**`#579179997`**](https://issuetracker.google.com/issues/579179997) (`cdapio/cdap` OAuth/SSRF).
+  - **Google Bug Hunters Profile**: [`bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d/awards`](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d/awards) · **39 Official GitHub Security Advisories (`credit_accepted: true`)**.
+- 📚 **Peer-Indexed CERN Zenodo DOIs & ORCID (`0009-0003-4163-0092`)**:
+  - [`10.5281/zenodo.23832719`](https://doi.org/10.5281/zenodo.23832719) · [`10.5281/zenodo.23832725`](https://doi.org/10.5281/zenodo.23832725) · [`10.5281/zenodo.23832731`](https://doi.org/10.5281/zenodo.23832731) · [`10.5281/zenodo.23832737`](https://doi.org/10.5281/zenodo.23832737)
+  - 🔗 **Public Verification Dossier**: [**`visionflowgroup.com/security-hall-of-fame/`**](https://visionflowgroup.com/security-hall-of-fame/)
+
+---
+
 ### ⚡ About Me
 
 I architect secure full-stack software systems, conduct adversarial AI & application security research, and direct high-retention visual production across **Vision Flow Group**, **Vision Flow Agency**, and **Vision Flow Academy**.
@@ -35,6 +51,8 @@ I architect secure full-stack software systems, conduct adversarial AI & applica
 ### 📫 Connect & Verify
 
 - **Official Executive Email**: `ceo@visionflowgroup.com` / `founder@visionflowgroup.com`
+- **Public Security Hall of Fame & Verification Ledger**: [visionflowgroup.com/security-hall-of-fame/](https://visionflowgroup.com/security-hall-of-fame/)
+- **ORCID Registry**: [orcid.org/0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092)
 - **LinkedIn**: [linkedin.com/in/hm-shihabuddin-jashory-972861227](https://www.linkedin.com/in/hm-shihabuddin-jashory-972861227)
 - **Facebook**: [facebook.com/Jashory](https://www.facebook.com/Jashory)
 - **Instagram**: [instagram.com/your_jashory](https://www.instagram.com/your_jashory/)
