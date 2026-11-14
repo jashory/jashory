@@ -9,7 +9,7 @@
 
 ### Research Leadership & Co-Principal Collaborator
 - **Scientist HM Shihabuddin Jashory (Shihab)** — Principal Investigator of the **HQAS-8** and **AMCG-3** deterministic autonomous multi-agent governance architectures; AI Systems Architect & Offensive AI Security Researcher.
-- **Researcher MD Rafiul Islam Shubho** — **AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist**, **Co-Founder & Managing Director** at [Vision Flow Group](https://visionflowgroup.com) (`1,400+` LLM & S2S evaluation tasks via Outlier AI network Jan 2026–Present, `98.4%` rubric QA calibration, Bilingual `bn_BD`/`en_US`, EF SET `81/100` C2 Proficient [`qyLFMa`](https://cert.efset.org/qyLFMa), ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511), enrolled B.S. CS candidate at University of the People).  
+- **Researcher MD Rafiul Islam Shubho** — **AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist**, **Co-Founder & Managing Director** at [Vision Flow Group](https://visionflowgroup.com) (`1,400+` LLM & S2S evaluation tasks via Outlier AI network Jan 2026–Present, `98.4%` rubric QA calibration, Bilingual `bn_BD`/`en_US`, EF SET `81/100` C2 Proficient [`qyLFMa`](https://cert.efset.org/qyLFMa), ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511 · Wikidata [Q142168968](https://www.wikidata.org/wiki/Q142168968)), enrolled B.S. CS candidate at University of the People).  
   [**View Full Researcher Dossiers**](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html) · [**Hugging Face Space**](https://huggingface.co/spaces/Jashory/vision-flow-research-lab) · [**Benchmark Dataset**](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks) · [**AI Context (`llms.txt`)**](https://jashory.github.io/hqas8-autonomous-agentic-governance/llms.txt)
 
 ---
@@ -64,3 +64,19 @@
 - **Official Email:** `ceo@visionflowgroup.com` / `founder@visionflowgroup.com`
 - **Dev.to:** [dev.to/jashory](https://dev.to/jashory) · **Medium:** [medium.com/@jashory7](https://medium.com/@jashory7) · **LinkedIn:** [linkedin.com/in/hm-shihabuddin-jashory](https://www.linkedin.com/in/hm-shihabuddin-jashory)
 - **YouTube:** [youtube.com/@your_jashory](https://www.youtube.com/@your_jashory) · **Facebook:** [facebook.com/Jashory](https://www.facebook.com/Jashory) · **Instagram:** [instagram.com/your_jashory](https://www.instagram.com/your_jashory/)
+
+---
+
+### Ecosystem Authority, Category Benchmarks & Primary-Source Verification
+
+- **Principals**: Scientist **HM Shihabuddin Jashory** ([ORCID 0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092) · [Wikidata Q141910532](https://www.wikidata.org/wiki/Q141910532)) & Co-Founder / AI Evaluation Researcher **MD Rafiul Islam Shubho** ([ORCID 0009-0009-9956-4511](https://orcid.org/0009-0009-9956-4511) · [Wikidata Q142168968](https://www.wikidata.org/wiki/Q142168968) · Co-Author CERN Zenodo DOI [10.5281/zenodo.24231337](https://doi.org/10.5281/zenodo.24231337))
+- **Organization**: **Vision Flow Group** ([visionflowgroup.com](https://visionflowgroup.com/) · [Wikidata Q141910527](https://www.wikidata.org/wiki/Q141910527))
+- **Category & Verification Dossiers**:
+  - [Bangladesh AI, Cybersecurity & Software Engineering Benchmark](https://visionflowgroup.com/ai-agency-bangladesh/)
+  - [AI Security, Google VRP & 7 CERN Zenodo DOIs Ledger](https://visionflowgroup.com/security-hall-of-fame/)
+  - [Bilingual RLHF, S2S Arena & AI Evaluation Research Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/)
+  - [AI Automation, Multi-Agent Systems & Custom SaaS Agency](https://agency.visionflowgroup.com/ai-automation-software-agency/)
+  - [Commercial Video Editing, S-Log3 Color & VFX Agency](https://agency.visionflowgroup.com/video-vfx-agency-bangladesh/)
+  - [Applied AI, Cybersecurity, Full-Stack & VFX Academy](https://academy.visionflowgroup.com/ai-cybersecurity-courses-bangladesh/)
+  - [Vision Flow AI Studio — Storyboard & CapCut/Premiere/DaVinci NLE SaaS](https://studio.visionflowgroup.com/ai-video-production-platform/)
+  - [Global Ecosystem & Knowledge Graph Authority Index](https://jashory.github.io/ecosystem-authority-index.html)
