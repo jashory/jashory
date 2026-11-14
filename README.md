@@ -9,12 +9,12 @@
 
 ### Research Leadership & Co-Principal Collaborator
 - **Scientist HM Shihabuddin Jashory (Shihab)** — Principal Investigator of the **HQAS-8** and **AMCG-3** deterministic autonomous multi-agent governance architectures; AI Systems Architect & Offensive AI Security Researcher.
-- **Researcher MD Rafiul Islam Shubho** — **AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist**, **Co-Founder & Managing Director** at [Vision Flow Group](https://visionflowgroup.com) (`1,400+` LLM & S2S evaluation tasks via Outlier AI network Jan 2026–Present, `98.4%` rubric QA calibration, Bilingual `bn_BD`/`en_US`, EF SET `81/100` C2 Proficient [`qyLFMa`](https://cert.efset.org/qyLFMa), enrolled B.S. CS candidate at University of the People).  
+- **Researcher MD Rafiul Islam Shubho** — **AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist**, **Co-Founder & Managing Director** at [Vision Flow Group](https://visionflowgroup.com) (`1,400+` LLM & S2S evaluation tasks via Outlier AI network Jan 2026–Present, `98.4%` rubric QA calibration, Bilingual `bn_BD`/`en_US`, EF SET `81/100` C2 Proficient [`qyLFMa`](https://cert.efset.org/qyLFMa), ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511), enrolled B.S. CS candidate at University of the People).  
   [**View Full Researcher Dossiers**](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html) · [**Hugging Face Space**](https://huggingface.co/spaces/Jashory/vision-flow-research-lab) · [**Benchmark Dataset**](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks) · [**AI Context (`llms.txt`)**](https://jashory.github.io/hqas8-autonomous-agentic-governance/llms.txt)
 
 ---
 
-### Peer-Indexed Scientific Publications (6 CERN Zenodo DOIs & 3 OSF MetaArXiv Preprints)
+### Peer-Indexed Scientific Publications (7 CERN Zenodo DOIs & 3 OSF MetaArXiv Preprints)
 
 - **Research Portal:** [**`jashory.github.io/hqas8-autonomous-agentic-governance`**](https://jashory.github.io/hqas8-autonomous-agentic-governance/)
 - **Hugging Face Dataset:** [**`Jashory/hqas8-amcg3-governance-benchmarks`**](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks)
@@ -24,6 +24,7 @@
 - **Poster #04 (`VF-POSTER-2026-004`)**: *Architectural Poster: Dual-Axis 8-Layer Autonomous Agentic Verification & Governance* — DOI [`10.5281/zenodo.23832737`](https://doi.org/10.5281/zenodo.23832737)
 - **Paper #05 (`AMCG-3`)**: *Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents* — DOI [`10.5281/zenodo.24107586`](https://doi.org/10.5281/zenodo.24107586) (v1: [`24096896`](https://doi.org/10.5281/zenodo.24096896)) · [OSF MetaArXiv `bpdx8_v1`](https://osf.io/preprints/metaarxiv/bpdx8_v1)
 - **Poster #06 (`VF-POSTER-2026-006`)**: *Unified 3-Gear Trajectory Anti-Compaction, Multimodal Quality Gates, and Anti-Bypass Enforcer Engine* — DOI [`10.5281/zenodo.24107494`](https://doi.org/10.5281/zenodo.24107494) (v1: [`24097022`](https://doi.org/10.5281/zenodo.24097022))
+- **Paper #07 (`VF-RLHF-S2S-2026-007`)**: *Deterministic Bilingual RLHF Preference Calibration and Speech-to-Speech (S2S) Acoustic Prosody Governance* (co-authored with [MD Rafiul Islam Shubho](https://orcid.org/0009-0009-9956-4511)) — DOI [`10.5281/zenodo.24231337`](https://doi.org/10.5281/zenodo.24231337) · [Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/rlhf-s2s-monograph.html)
 
 ---
 
