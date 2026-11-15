@@ -1,6 +1,6 @@
 # HM Shihabuddin Jashory (Shihab) — Scientist, AI Systems Architect & Security Researcher
 
-**Scientist, Founder & CEO at [Vision Flow Group](https://visionflowgroup.com) ([`@visionflow-bd`](https://github.com/visionflow-bd) · Wikidata [`Q141910527`](https://www.wikidata.org/wiki/Q141910527)) · Dhaka, Bangladesh (Serving 15+ Countries)**
+**Scientist, Founder & CEO at [Vision Flow Group](https://visionflowgroup.com) ([`@visionflow-bd`](https://github.com/visionflow-bd) · Wikidata [`Q141910527`](https://www.wikidata.org/wiki/Q141910527)) · Dhaka, Bangladesh · Global AI Systems & Security Research**
 
 > **ORCID**: [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) · **Wikidata**: [`Q141910532`](https://www.wikidata.org/wiki/Q141910532) · **OpenAlex**: [`A5160247232`](https://openalex.org/A5160247232) · **Google Scholar**: [`67paHlQAAAAJ`](https://scholar.google.com/citations?user=67paHlQAAAAJ) · **Google Developers**: [`g.dev/jashory`](https://g.dev/jashory) · **Bangladesh ICT Division Verified Credential**: [`F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55)
 
@@ -33,15 +33,15 @@ Across international academic registries, government databases, bug-bounty platf
 
 | Issuing Authority / Registry | Public Cryptographic Verification Proof | Verified Count / Status |
 | :--- | :--- | :--- |
-| **Google Bug Hunters (VRP)** | [MD SHIHABUDDIN Official Profile (`1fc2c814`)](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d) | Active Profile · Issue Tracker disclosures (`#577552191`, `#579166776`, `#580130935`, `#580032520`, `#579287563`) embargoed pending coordinated triage |
+| **Google Bug Hunters (VRP)** | [MD SHIHABUDDIN Official Profile (`1fc2c814`)](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d) | Active Profile (**2 Unlocked Awards**) · Issue Tracker disclosures (`#577552191`, `#579166776`, `#580130935`, `#580032520`) embargoed pending coordinated triage |
 | **Google Cloud Skills** | [HM Shihabuddin Jashory Public Profile](https://www.skills.google/public_profiles/2604453d-f5c7-4bba-b13a-9aefbc2fa654) | Live Verified Cloud & Security Badges |
 | **Google Developer Program** | [g.dev/jashory](https://g.dev/jashory) · [g.dev/mdrafiulislamshubho](https://g.dev/mdrafiulislamshubho) | Both Public Profiles HTTP-200 |
-| **Google Scholar** | [HM Shihabuddin Jashory (`67paHlQAAAAJ`)](https://scholar.google.com/citations?user=67paHlQAAAAJ) · [MD Rafiul Islam Shubho (`mbBuZNgAAAAJ`)](https://scholar.google.com/citations?user=mbBuZNgAAAAJ) | Verified `@visionflowgroup.com` · 7 Indexed Works |
+| **Google Scholar** | [HM Shihabuddin Jashory (`67paHlQAAAAJ`)](https://scholar.google.com/citations?user=67paHlQAAAAJ) · [MD Rafiul Islam Shubho (`mbBuZNgAAAAJ`)](https://scholar.google.com/citations?user=mbBuZNgAAAAJ) | Verified `@visionflowgroup.com` · 8 Indexed Works |
 | **Credly (IBM / TEEX / LF / MongoDB)** | [Badges UI](https://www.credly.com/users/jashory/badges) · [Public JSON API](https://www.credly.com/users/jashory/badges.json) · [Shuvo Credly](https://www.credly.com/users/md-rafiul-islam-shubho/badges/credly) | **48 Badges** (`IBM SkillsBuild: 39`, `TEEX ACE: 5`, `IBM Quantum: 2`, `MongoDB: 1`, `Linux Foundation: 1`) |
 | **Coursera (Google & Vanderbilt)** | `2` Specializations (`RD5UKW09TS71`, `UBEDUNJ1V495`) + `10` Courses (`QT7UUQU10VOW`, `L3775R872OY4`, `M0YECMU8HMCA`, `6XMCADXTYWX9`, `RCTTIBHWJA6G`, `SP7R9EC0GIPI`, `OVKC2XHCQUDE`, `3R8SXAFNRLUE`, `3309UDCYOYZ2`, `3JMQQIOJQIBD`) | **12 Cryptographic Verify URLs** (`coursera.org/verify/...`) |
 | **Hugging Face Courses & Hub** | [`Jashory`](https://huggingface.co/Jashory) · [`mdrafiulislamshubho`](https://huggingface.co/mdrafiulislamshubho) · [AI Agents Cert](https://huggingface.co/datasets/agents-course/certificates/blob/main/certificates/Jashory/2026-10-31.png) · [MCP Cert](https://huggingface.co/datasets/context-course/certificates/blob/main/certificates/Jashory/2026-10-31.png) · [Smol SFT Cert](https://huggingface.co/datasets/smol-course/certificates/blob/main/certificates/Jashory/2026-10-31.png) | **3 Course Certs + Space + Dataset** |
-| **CERN Zenodo & OSF MetaArXiv** | [ORCID 0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092) · [OpenAlex `A5160247232`](https://openalex.org/A5160247232) · [OSF `rm5ab_v1`](https://osf.io/preprints/metaarxiv/rm5ab_v1) · [OSF `6sjmk_v1`](https://osf.io/preprints/metaarxiv/6sjmk_v1) · [OSF `bpdx8_v1`](https://osf.io/preprints/metaarxiv/bpdx8_v1) | **7 DataCite DOIs + 3 Preprints** |
-| **Bangladesh Govt & EF SET** | [ICT Division Verify `F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55) · [EF SET C2 `qyLFMa`](https://cert.efset.org/qyLFMa) | National ICT Registry + 81/100 C2 |
+| **CERN Zenodo & OSF MetaArXiv** | [ORCID 0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092) · [OpenAlex `A5160247232`](https://openalex.org/A5160247232) · [OSF `rm5ab_v1`](https://osf.io/preprints/metaarxiv/rm5ab_v1) · [OSF `6sjmk_v1`](https://osf.io/preprints/metaarxiv/6sjmk_v1) · [OSF `bpdx8_v1`](https://osf.io/preprints/metaarxiv/bpdx8_v1) | **8 DataCite DOIs + 3 Preprints** |
+| **Bangladesh Govt & EF SET** | [Identity Card for Freelancers `F2617827988` (`MD SHIHABUDDIN`)](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55) · [EF SET C2 `qyLFMa`](https://cert.efset.org/qyLFMa) | National ICT Registry + 81/100 C2 |
 
 <details>
 <summary>All 12 Coursera Cryptographic Verification URLs (Direct Links)</summary>
@@ -63,7 +63,7 @@ Across international academic registries, government databases, bug-bounty platf
 
 ---
 
-### Peer-Indexed Scientific Publications (7 CERN Zenodo DOIs & 3 OSF MetaArXiv Preprints)
+### Peer-Indexed Scientific Publications (8 CERN Zenodo DOIs & 3 OSF MetaArXiv Preprints)
 
 | # | Monograph / Benchmark Title | Authors | Persistent DOI & Repository |
 | :--- | :--- | :--- | :--- |
@@ -74,6 +74,7 @@ Across international academic registries, government databases, bug-bounty platf
 | 05 | **AMCG-3** — Eliminating Auto-Compaction Amnesia & Unverified Execution via UTF-8 Trajectory Digests & 3-Gear Quality Gates | HM Shihabuddin Jashory | [`10.5281/zenodo.24107586`](https://doi.org/10.5281/zenodo.24107586) · [OSF `bpdx8_v1`](https://osf.io/preprints/metaarxiv/bpdx8_v1) |
 | 06 | **VF-POSTER-2026-006** — Unified 3-Gear Trajectory Anti-Compaction & Enforcer Engine Architecture Poster (AMCG-3) | HM Shihabuddin Jashory | [`10.5281/zenodo.24107494`](https://doi.org/10.5281/zenodo.24107494) |
 | 07 | **VF-RLHF-S2S-2026-007** — Deterministic Bilingual (`bn_BD` / `en_US`) RLHF Preference Calibration & S2S Acoustic Prosody Governance | HM Shihabuddin Jashory & MD Rafiul Islam Shubho | [`10.5281/zenodo.24231337`](https://doi.org/10.5281/zenodo.24231337) · [Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/rlhf-s2s-monograph.html) |
+| 08 | **VF-AI-ORCH-2026-008** — Asymmetric Dual-Model Planner-Executor Routing and Split-Brain Live Voice-to-Agent Governance | HM Shihabuddin Jashory | [`10.5281/zenodo.24246882`](https://doi.org/10.5281/zenodo.24246882) · [Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/paper8-asymmetric-routing-monograph.html) |
 
 ---
 
@@ -90,7 +91,11 @@ Across international academic registries, government databases, bug-bounty platf
 ### Ecosystem Authority, Category Benchmarks & Primary-Source Verification
 
 - **Organization**: **Vision Flow Group** ([visionflowgroup.com](https://visionflowgroup.com/) · [Wikidata `Q141910527`](https://www.wikidata.org/wiki/Q141910527)) · Divisions: [Agency](https://agency.visionflowgroup.com/) · [Academy](https://academy.visionflowgroup.com/) · [AI Studio](https://studio.visionflowgroup.com/) · [Tools Hub](https://go.visionflowgroup.com/)
-- **Category & Verification Dossiers**:
+- **Category, Entity & Verification Dossiers**:
+  - [HM Shihabuddin Jashory — Canonical Scientist & Founder Entity Dossier](https://visionflowgroup.com/hm-shihabuddin-jashory/)
+  - [MD Rafiul Islam Shubho — Canonical Co-Founder & AI/RLHF Researcher Entity Dossier](https://visionflowgroup.com/md-rafiul-islam-shubho/)
+  - [Vision Flow Official Press Room & Brand Media Kit](https://visionflowgroup.com/press/)
+  - [TechBehemoths Verified Company Profile (#101215)](https://techbehemoths.com/company/vision-flow-group)
   - [Bangladesh AI, Cybersecurity & Software Engineering Benchmark](https://visionflowgroup.com/ai-agency-bangladesh/)
   - [AI Security, Google Bug Hunters & 3rd-Party Certification Ledger](https://visionflowgroup.com/security-hall-of-fame/)
   - [Bilingual RLHF, S2S Arena & AI Evaluation Research Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/)
