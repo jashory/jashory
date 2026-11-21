@@ -91,3 +91,10 @@ I architect deterministic multi-agent AI governance systems (**HQAS-8** & **AMCG
   - [HM Shihabuddin Jashory Profile](https://visionflowgroup.com/hm-shihabuddin-jashory/) · [MD Rafiul Islam Shubho Profile](https://visionflowgroup.com/md-rafiul-islam-shubho/) · [Press Room](https://visionflowgroup.com/press/) · [Security Hall of Fame](https://visionflowgroup.com/security-hall-of-fame/)
   - [AI Agency Bangladesh](https://visionflowgroup.com/ai-agency-bangladesh/) · [AI Research & RLHF Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/) · [AI Automation Agency](https://agency.visionflowgroup.com/ai-automation-software-agency/) · [Commercial Video & VFX Agency](https://agency.visionflowgroup.com/video-vfx-agency-bangladesh/) · [AI & Cybersecurity Academy](https://academy.visionflowgroup.com/ai-cybersecurity-courses-bangladesh/) · [Vision Flow AI Studio](https://studio.visionflowgroup.com/ai-video-production-platform/)
 - **Connect**: [Scientific Hub](https://jashory.github.io/) · [Dev.to `@jashory`](https://dev.to/jashory) · [LinkedIn](https://www.linkedin.com/in/hm-shihabuddin-jashory/) · [PRLog Expert Bio](https://www.prlog.org/pub/50011014.html) · [Medium](https://medium.com/@jashory7)
+
+### Published Python Packages on PyPI (`v2.1.0`)
+- [`mcp-agent-security-auditor`](https://pypi.org/project/mcp-agent-security-auditor/) — `pip install mcp-agent-security-auditor`
+- [`infinite-llm-fallback-router`](https://pypi.org/project/infinite-llm-fallback-router/) — `pip install infinite-llm-fallback-router`
+- [`agy-claude-crash-guard-kit`](https://pypi.org/project/agy-claude-crash-guard-kit/) — `pip install agy-claude-crash-guard-kit`
+- **Organization Profiles:** [Crunchbase](https://www.crunchbase.com/organization/vision-flow-group) · [Trustpilot](https://www.trustpilot.com/review/visionflowgroup.com) · [TechBehemoths #101215](https://techbehemoths.com/company/vision-flow-group)
+
