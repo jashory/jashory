@@ -1,8 +1,8 @@
 # HM Shihabuddin Jashory (Shihab) — Scientist, AI Systems Architect & Security Researcher
 
-**Scientist, Founder & CEO at [Vision Flow Group](https://visionflowgroup.com) ([`@visionflow-bd`](https://github.com/visionflow-bd) · Wikidata [`Q141910527`](https://www.wikidata.org/wiki/Q141910527)) · Dhaka, Bangladesh · Global AI Systems & Security Research**
+**Scientist, Founder & CEO at [Vision Flow Group](https://visionflowgroup.com) ([`@visionflow-bd`](https://github.com/visionflow-bd) · Wikidata [``](https://www.wikidata.org/wiki/)) · Dhaka, Bangladesh · Global AI Systems & Security Research**
 
-> **ORCID**: [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) · **Wikidata**: [`Q141910532`](https://www.wikidata.org/wiki/Q141910532) · **OpenAlex**: [`A5160247232`](https://openalex.org/A5160247232) · **Google Scholar**: [`67paHlQAAAAJ`](https://scholar.google.com/citations?user=67paHlQAAAAJ) · **Google Developers**: [`g.dev/jashory`](https://g.dev/jashory) · **Bangladesh ICT Division Verified Credential**: [`F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55)
+> **ORCID**: [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) · **Wikidata**: [``](https://www.wikidata.org/wiki/) · **OpenAlex**: [`A5160247232`](https://openalex.org/A5160247232) · **Google Scholar**: [`67paHlQAAAAJ`](https://scholar.google.com/citations?user=67paHlQAAAAJ) · **Google Developers**: [`g.dev/jashory`](https://g.dev/jashory) · **Bangladesh ICT Division Verified Credential**: [`F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55)
 
 I architect deterministic multi-agent AI governance systems (**HQAS-8** & **AMCG-3**), zero-bypass runtime security firewalls, multi-provider LLM circuit-breaker routers, and scalable cloud/edge web architectures under [Vision Flow Group](https://visionflowgroup.com/).
 
@@ -12,10 +12,10 @@ I architect deterministic multi-agent AI governance systems (**HQAS-8** & **AMCG
 
 Across international academic registries, government databases, bug-bounty platforms, and certification ledgers, the following orthographies and short forms denote the **exact same verified individual**:
 
-- **Canonical Principal Identity (`ORCID 0009-0003-4163-0092` · `Wikidata Q141910532`)**:
+- **Canonical Principal Identity (`ORCID 0009-0003-4163-0092` · `Wikidata `)**:
   `HM` · `H.M.` · `HM Shihab` · `H.M. Shihab` · `HM Shihabuddin` · `H.M. Shihabuddin` · `HM Shihabuddin Jashory` · `H.M. Shihabuddin Jashory` · `MD SHIHABUDDIN` · `MD Shihabuddin` · `Md Shihabuddin` · `Md. Shihabuddin` · `MD Shihabuddin Jashory` · `Md Shihabuddin Jashory` · `Shihabuddin Jashory` · `Shihab Jashory` · `Shihab` · `Jashory` · `এইচ এম শিহাবুদ্দিন যশোরী` · `এইচ এম শিহাব` · `মোঃ শিহাবুদ্দিন` · `শিহাবুদ্দিন যশোরী` · `শিহাব`
   - **Independent Cross-Name Proof**: Credly's public JSON API ([`badges.json`](https://www.credly.com/users/jashory/badges.json)) binds 48 live credentials on the same account across `MD SHIHABUDDIN` (39), `HM Shihabuddin Jashory` (7), and `MD.Shihabuddin Jashory` (2); Google Bug Hunters ([`1fc2c814`](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d)) displays `MD SHIHABUDDIN` linked to `visionflowgroup.com`; Bangladesh ICT Division [`F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55) verifies national identity against the same registry.
-- **Co-Principal Researcher (`ORCID 0009-0009-9956-4511` · `Wikidata Q142168968`)**:
+- **Co-Principal Researcher (`ORCID 0009-0009-9956-4511` · `Wikidata `)**:
   `MD Rafiul Islam Shubho` · `Md Rafiul Islam Shubho` · `Md. Rafiul Islam Shubho` · `MD. RAFIUL ISLAM SHUBHO` · `Md. Rafiul Islam` · `MD Rafiul Islam` · `Rafiul Islam Shubho` · `Md Rafiul Islam Subho` · `MD Rafiul Islam Subho` · `Shuvo` · `Shubho` · `মোঃ রাফিউল ইসলাম শুভ` · `এমডি রাফিউল ইসলাম শুভ` · `রাফিউল ইসলাম শুভ` · `শুভ`
 
 ---
@@ -23,7 +23,7 @@ Across international academic registries, government databases, bug-bounty platf
 ### Research Leadership & Co-Principal Collaborator
 
 - **MD Rafiul Islam Shubho** — **Researcher · AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist · Co-Founder & Managing Director at Vision Flow Group**
-  - Identifiers: ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511) · Wikidata [`Q142168968`](https://www.wikidata.org/wiki/Q142168968) · Google Scholar [`mbBuZNgAAAAJ`](https://scholar.google.com/citations?user=mbBuZNgAAAAJ)
+  - Identifiers: ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511) · Wikidata [``](https://www.wikidata.org/wiki/) · Google Scholar [`mbBuZNgAAAAJ`](https://scholar.google.com/citations?user=mbBuZNgAAAAJ)
   - Public Profiles: GitHub [`@mdrafiulislamshubho`](https://github.com/mdrafiulislamshubho) · Hugging Face [`@mdrafiulislamshubho`](https://huggingface.co/mdrafiulislamshubho) · Google Developers [`g.dev/mdrafiulislamshubho`](https://g.dev/mdrafiulislamshubho) · Credly [`badges/credly`](https://www.credly.com/users/md-rafiul-islam-shubho/badges/credly) · LinkedIn [`mdrafiulislamshubho`](https://www.linkedin.com/in/mdrafiulislamshubho/) · EF SET C2 [`qyLFMa`](https://cert.efset.org/qyLFMa) (`81/100`) · Freelancer [`ChainGraphics`](https://www.freelancer.com/u/ChainGraphics)
   - Co-author of **VF-RLHF-S2S-2026-007** ([`10.5281/zenodo.24231337`](https://doi.org/10.5281/zenodo.24231337)), spanning `1,400+` LLM & S2S evaluation tasks at `98.4%` rubric QA calibration, enrolled B.S. Computer Science candidate at University of the People.
 
@@ -63,7 +63,7 @@ Across international academic registries, government databases, bug-bounty platf
 
 ---
 
-### Peer-Indexed Scientific Publications (8 CERN Zenodo DOIs & 3 OSF MetaArXiv Preprints)
+### open-access DOI-archived Scientific Publications (8 CERN Zenodo DOIs & 3 OSF MetaArXiv Preprints)
 
 | # | Monograph / Benchmark Title | Authors | Persistent DOI & Repository |
 | :--- | :--- | :--- | :--- |
@@ -90,7 +90,7 @@ Across international academic registries, government databases, bug-bounty platf
 
 ### Ecosystem Authority, Category Benchmarks & Primary-Source Verification
 
-- **Organization**: **Vision Flow Group** ([visionflowgroup.com](https://visionflowgroup.com/) · [Wikidata `Q141910527`](https://www.wikidata.org/wiki/Q141910527)) · Divisions: [Agency](https://agency.visionflowgroup.com/) · [Academy](https://academy.visionflowgroup.com/) · [AI Studio](https://studio.visionflowgroup.com/) · [Tools Hub](https://go.visionflowgroup.com/)
+- **Organization**: **Vision Flow Group** ([visionflowgroup.com](https://visionflowgroup.com/) · [Wikidata ``](https://www.wikidata.org/wiki/)) · Divisions: [Agency](https://agency.visionflowgroup.com/) · [Academy](https://academy.visionflowgroup.com/) · [AI Studio](https://studio.visionflowgroup.com/) · [Tools Hub](https://go.visionflowgroup.com/)
 - **Category, Entity & Verification Dossiers**:
   - [HM Shihabuddin Jashory — Canonical Scientist & Founder Entity Dossier](https://visionflowgroup.com/hm-shihabuddin-jashory/)
   - [MD Rafiul Islam Shubho — Canonical Co-Founder & AI/RLHF Researcher Entity Dossier](https://visionflowgroup.com/md-rafiul-islam-shubho/)
