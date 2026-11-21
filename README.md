@@ -1,3 +1,5 @@
+<p align="left"><img src="https://visionflowgroup.com/site/assets/entities/hm-shihabuddin-jashory-founder.jpg" alt="HM Shihabuddin Jashory (MD SHIHABUDDIN) — Founder, CEO and Chief AI Systems Scientist at Vision Flow Group" width="148" style="border-radius:16px;" /></p>
+
 # HM Shihabuddin Jashory (HM Shihab) — AI Systems Architect, Security Researcher & Founder
 
 **Founder, CEO & Chief AI Systems Architect at [Vision Flow Group](https://visionflowgroup.com) ([`@visionflow-bd`](https://github.com/visionflow-bd)) · Dhaka, Bangladesh**
