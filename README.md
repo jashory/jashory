@@ -8,9 +8,9 @@ I architect deterministic multi-agent AI governance systems (**HQAS-8** & **AMCG
 
 ---
 
-### Independent Third-Party Verifications (All Live Public Records)
+### Public External Records & Profiles
 
-| External Registry / Authority | Direct Public Verification Link | Independently Verified Record |
+| External Registry / Authority | Direct Public Verification Link | Record Details |
 | :--- | :--- | :--- |
 | **Anthropic Model Context Protocol (GitHub Advisory)** | [GHSA-q74p-4wrc-q7w6 (`modelcontextprotocol/servers`)](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-q74p-4wrc-q7w6) | **Published Public Security Advisory** — Credit: **Reporter `@jashory`** (Nov 11, 2026) |
 | **NASA JPL (`nasa/fprime`) & Figshare DataCite v2** | [Figshare DOI `10.6084/m9.figshare.35059921.v2`](https://doi.org/10.6084/m9.figshare.35059921.v2) | Public 7-file archive including `nasa/fprime#6299` verification and NASA JPL maintainer Steven Doran direct email confirmation (`GHSA-pq8v-c63j-wv29`) |
@@ -22,7 +22,7 @@ I architect deterministic multi-agent AI governance systems (**HQAS-8** & **AMCG
 | **Coursera (Google & Vanderbilt)** | `2` Specializations (`RD5UKW09TS71`, `UBEDUNJ1V495`) + `10` Courses | **12 Cryptographic Verify URLs** (`coursera.org/verify/...`) |
 | **Hugging Face Hub & Courses** | [`@Jashory`](https://huggingface.co/Jashory) · [AI Agents Cert](https://huggingface.co/datasets/agents-course/certificates/blob/main/certificates/Jashory/2026-10-31.png) · [MCP Cert](https://huggingface.co/datasets/context-course/certificates/blob/main/certificates/Jashory/2026-10-31.png) · [Smol SFT Cert](https://huggingface.co/datasets/smol-course/certificates/blob/main/certificates/Jashory/2026-10-31.png) | **3 Verified Course Certificates + Live Dataset & Space** |
 | **Google Cloud Skills & Google Developers** | [Google Cloud Skills](https://www.skills.google/public_profiles/2604453d-f5c7-4bba-b13a-9aefbc2fa654) · [g.dev/jashory](https://g.dev/jashory) | Live Public Profiles |
-| **CERN Zenodo, Figshare & OSF MetaArXiv** | [OpenAlex `A5160247232`](https://openalex.org/A5160247232) · [OSF `rm5ab_v1`](https://osf.io/preprints/metaarxiv/rm5ab_v1) · [OSF `6sjmk_v1`](https://osf.io/preprints/metaarxiv/6sjmk_v1) · [OSF `bpdx8_v1`](https://osf.io/preprints/metaarxiv/bpdx8_v1) | **8 CERN Zenodo DOIs + 1 Figshare DataCite v2 DOI + 3 OSF Preprints** *(open-access DOI-archived technical monographs)* |
+| **Zenodo, Figshare & OSF MetaArXiv** | [OpenAlex `A5160247232`](https://openalex.org/A5160247232) · [OSF `rm5ab_v1`](https://osf.io/preprints/metaarxiv/rm5ab_v1) · [OSF `6sjmk_v1`](https://osf.io/preprints/metaarxiv/6sjmk_v1) · [OSF `bpdx8_v1`](https://osf.io/preprints/metaarxiv/bpdx8_v1) | **8 Zenodo Open-Access DOIs + 1 Figshare DataCite v2 DOI + 3 OSF Preprints** *(open-access DOI-archived technical monographs)* |
 | **Bangladesh ICT Division & EF SET** | [Freelancer Registry `F2617827988` (`MD SHIHABUDDIN`)](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55) · [EF SET C2 (`82/100`)](https://visionflowgroup.com/hm-shihabuddin-jashory/) | National Registry Verification & C2 English Certification |
 
 ---
@@ -56,7 +56,7 @@ I architect deterministic multi-agent AI governance systems (**HQAS-8** & **AMCG
 
 ---
 
-### Open-Access DOI-Archived Technical Monographs & Benchmarks (8 CERN Zenodo DOIs · 1 Figshare DOI · 3 OSF Preprints)
+### Open-Access DOI-Archived Technical Monographs & Benchmarks (8 Zenodo Open-Access DOIs · 1 Figshare DOI · 3 OSF Preprints)
 
 | # | Monograph / Benchmark Title | Authors | Persistent DOI & Repository |
 | :--- | :--- | :--- | :--- |
