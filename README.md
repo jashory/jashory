@@ -1,4 +1,4 @@
-<p align="left"><img src="https://visionflowgroup.com/site/assets/entities/hm-shihabuddin-jashory-founder.jpg" alt="HM Shihabuddin Jashory (MD SHIHABUDDIN) — Founder, CEO and Chief AI Systems Scientist at Vision Flow Group" width="148" style="border-radius:16px;" /></p>
+<p align="left"><img src="https://visionflowgroup.com/site/assets/entities/hm-shihabuddin-jashory.jpg" alt="HM Shihabuddin Jashory (MD SHIHABUDDIN) — Founder, CEO and Chief AI Systems Scientist at Vision Flow Group" width="148" style="border-radius:16px;" /></p>
 
 # HM Shihabuddin Jashory (HM Shihab) — AI Systems Architect, Security Researcher & Founder
 
